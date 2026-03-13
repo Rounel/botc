@@ -1,0 +1,17 @@
+{
+  "total_trades": 1,
+  "win_trades": 1,
+  "loss_trades": 0,
+  "win_rate": 100.0,
+  "profit_factor": 1231.86,
+  "total_pnl": 1231.86,
+  "max_drawdown": 0,
+  "avg_rr": 2.25,
+  "expectancy": 1231.86,
+  "best_trade": 1231.86,
+  "worst_trade": 1231.86,
+  "avg_win": 1231.86,
+  "avg_loss": 0,
+  "consecutive_wins": 1,
+  "consecutive_losses": 0
+}

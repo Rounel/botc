@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────
+# Bot de Trading Telegram — Dépendances Python
+# ─────────────────────────────────────────────
+
+# Telegram
+python-telegram-bot==21.6
+
+# Data science
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+
+# HTTP
+requests>=2.31
+
+# Brokers (optionnel selon votre broker)
+# MetaTrader5 (Windows uniquement)
+# MetaTrader5==5.0.45
+
+# Binance
+# python-binance==1.0.19
+
+# OANDA
+# oandapyV20==0.7.2
+
+# Backtesting
+# backtesting==0.3.3
+
+# Utilitaires
+python-dotenv>=1.0
+schedule>=1.2
+
+# Visualisation (optionnel)
+# matplotlib>=3.7
+# plotly>=5.18

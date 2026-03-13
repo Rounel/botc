@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"\" > \"C:\\\\Users\\\\fabel\\\\Documents\\\\Ivoire_Node\\\\botS\\\\.env\" 2>/dev/null; echo \"done\")"
+    ]
+  }
+}
